@@ -10,7 +10,9 @@ class MonthlyDetails extends Component{
     }
     render(){
         return(
+            <div className="col-md-4">
             <h3>{this.state.MonthlyData}</h3>
+            </div>
         )
     }
 }
