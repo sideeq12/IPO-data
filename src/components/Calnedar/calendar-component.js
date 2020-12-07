@@ -10,6 +10,8 @@ class Calendar extends Component{
     }
     componentDidMount(){
         fetch()
+        .then()
+        .then()
     }
  
     render(){
