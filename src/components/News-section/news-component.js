@@ -8,6 +8,11 @@ class News extends Component{
             News : "News Hub"
         }
     }
+    componentDidMount(){
+        fetch()
+        .then()
+        .then()
+    }
     render(){
         let news = this.state.News;
         return(
