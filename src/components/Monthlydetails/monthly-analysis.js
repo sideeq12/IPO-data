@@ -8,6 +8,11 @@ class MonthlyDetails extends Component{
             MonthlyData : "MonthlyData"
         }
     }
+    componentDidMount(){
+        fetch()
+        .then()
+        .then()
+    }
     render(){
         return(
             <div className="col-md-4">
