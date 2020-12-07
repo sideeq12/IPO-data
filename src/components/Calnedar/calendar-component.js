@@ -8,7 +8,9 @@ class Calendar extends Component{
             metricTable : "table"
         }
     }
-    componentDidMount()
+    componentDidMount(){
+        fetch()
+    }
  
     render(){
         return(<h2>HI there </h2>)
